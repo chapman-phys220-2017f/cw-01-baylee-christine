@@ -16,7 +16,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 With your group, analyze in this section what you found useful about this assignment in your own words. Include any questions or comments that you may have for the instructor.
 
-**CHANGEME**
+Thought it was good practice learning how to commit and push things to GitHub, but found it confusing at first working with the terminal to code.
 
 ## Honor Pledge
 
